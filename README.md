@@ -54,7 +54,7 @@ Menggabungkan materi praktikum menjadi halaman biodata mahasiswa yang memuat tab
 ![Form Registrasi Mahasiswa](screenshot/form-registrasi.png)
 
 ### 3. Proyek Mini — Biodata Mahasiswa
-![Proyek Mini Biodata](screenshot\proyek-mini-biodata.png)
+![Proyek Mini Biodata](screenshot/proyek-mini-biodata.png)
 
 
 ## Kesimpulan

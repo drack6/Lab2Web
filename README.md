@@ -48,7 +48,7 @@ Menggabungkan materi praktikum menjadi halaman biodata mahasiswa yang memuat tab
 ## Dokumentasi Screenshot
 
 ### 1. Tabel Data Mahasiswa
-![Tabel Data Mahasiswa](screenshot\latihan-table.png)
+![Tabel Data Mahasiswa](screenshot/latihan-table.png)
 
 ### 2. Form Registrasi Mahasiswa
 ![Form Registrasi Mahasiswa](screenshot\form-registrasi.png)
